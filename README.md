@@ -10,7 +10,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 
 - 🔭 I’m currently working on **ML/AI**
 
-- 🌱 I’m currently learning **NLP and Data Structures and Algorithms** **
+- 🌱 I’m currently learning **NLP, Data Structures and Algorithms** **
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
