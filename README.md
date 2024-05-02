@@ -29,8 +29,11 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AHTML5">
       <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    </a>
-   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC++">
-      <img alt="C++" src="https://img.shields.io/badge/c++-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3ACSS3">
+      <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+   </a>
+   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AC">
+      <img alt="C++" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
    </a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
 <!--    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white&style=for-the-badge"></a>   -->
