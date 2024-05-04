@@ -17,7 +17,7 @@ https://i.imgur.com/iXuL1HG.png" height="175px -->
 - 👨‍💻 All of my projects are available at **My PortFolio**
 - 📫 How to reach me **amrishyadav407@gmail.com**
 
-- ⚡**Passion Make It Possible**
+- ⚡**Passion To Make It Possible**
 
 ## 🚀 Languages :
 
